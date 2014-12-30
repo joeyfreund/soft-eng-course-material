@@ -23,6 +23,9 @@ In this course, we discussed 4 different topics/issues.
 | | | | [Logging Library - Code Example](https://github.com/csc301-fall2014/LoggingExample) |
 
 
+In addition to the lectures and tutorials, we had the pleasure of having two guest lectures:
+ * _Xavier Snelgrove_ from [Whirlscape](http://minuum.com/) talked about his experience founding and growing a startup, and competing in a high-visibility consumer space.
+ * _Nahim Nasser_ & _Mark Reale_ from [BNotion](http://bnotions.com/) talked about their journey, starting as "a bunch of friends in a garage" and becoming one of Toronto's leading software shops.
 
 
 <sub>
