@@ -1,7 +1,7 @@
 Introduction To Software Engineering
 ====================================
 
-This repo contains an archive of a 3rd year software engineering course I designed and taught at the University of Toronto.
+This repo contains an archive of a 3rd year software engineering course, designed and taught by [Joey Freund](https://github.com/joeyfreund), at the University of Toronto.
 
 The goal of the course is to give university students a glimps into the world of practical software engineering.
 In this course, we discussed 4 different topics/issues.
@@ -27,8 +27,10 @@ In addition to the lectures and tutorials, we had the pleasure of having two gue
  * _Xavier Snelgrove_ from [Whirlscape](http://minuum.com/) talked about his experience founding and growing a startup, and competing in a high-visibility consumer space.
  * _Nahim Nasser_ & _Mark Reale_ from [BNotion](http://bnotions.com/) talked about their journey, starting as "a bunch of friends in a garage" and becoming one of Toronto's leading software shops.
 
+-----
 
-<sub>
+ * <sub>If you would like to use any of the materials presented here in your course/website/blog/etc, please make sure to link back to this repo.</sub>
+ * <sub>
 Icons made by [Freepik](http://www.freepik.com) and [SimpleIcon](http://www.simpleicon.com), from 
 [www.flaticon.com](http://www.flaticon.com), are licensed by [Creative Commons BY 3.0](http://creativecommons.org/licenses/by/3.0).
 </sub>
