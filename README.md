@@ -27,7 +27,23 @@ In addition to the lectures and tutorials, we had the pleasure of having two gue
  * _Xavier Snelgrove_ from [Whirlscape](http://minuum.com/) talked about his experience founding and growing a startup, and competing in a high-visibility consumer space.
  * _Nahim Nasser_ & _Mark Reale_ from [BNotion](http://bnotions.com/) talked about their journey, starting as "a bunch of friends in a garage" and becoming one of Toronto's leading software shops.
 
+----
+
+### Course Work
+
+[solution](https://github.com/csc301-fall2014/Exercise1Solution)
+ * A short [programming exercise](https://github.com/csc301-fall2014/Exercise1), to be done in teams.     
+   The goal of the exercise was to give students a chance to:
+   * Brush up their programming skills (Java and basic Object-Oriented concepts in particular).
+   * Work in a team.
+   * Get used to using GitHub.
+ * An 8-week long [project](https://github.com/csc301-fall2014/CSC301H5F-home/blob/master/ProjectOptions.md).     
+   * The project was delivered in 4 phases (handout [1](https://github.com/csc301-fall2014/CSC301H5F-home/blob/master/Phase1Handout.md), [2](https://github.com/csc301-fall2014/CSC301H5F-home/blob/master/Phase2Handout.md), [3](https://github.com/csc301-fall2014/CSC301H5F-home/blob/master/Phase3Handout.md) and [4](https://github.com/csc301-fall2014/CSC301H5F-home/blob/master/Phase4Handout.md)) that focused on different aspects of software engineering.
+   * See [this repo](https://github.com/csc301-fall2014/Proj-Evening-Team8-repo) for as an example of a final project.
+
+
 -----
+
 
  * <sub>If you would like to use any of the materials presented here in your course/website/blog/etc, please make sure to link back to this repo.</sub>
  * <sub>
