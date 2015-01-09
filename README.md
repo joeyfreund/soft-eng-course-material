@@ -31,8 +31,7 @@ In addition to the lectures and tutorials, we had the pleasure of having two gue
 
 ### Course Work
 
-[solution](https://github.com/csc301-fall2014/Exercise1Solution)
- * A short [programming exercise](https://github.com/csc301-fall2014/Exercise1), to be done in teams.     
+ * A short [programming exercise](https://github.com/csc301-fall2014/Exercise1) (see [solution](https://github.com/csc301-fall2014/Exercise1Solution)), to be done in teams.     
    The goal of the exercise was to give students a chance to:
    * Brush up their programming skills (Java and basic Object-Oriented concepts in particular).
    * Work in a team.
