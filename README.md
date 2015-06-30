@@ -3,7 +3,7 @@ Introduction To Software Engineering
 
 This repo contains an archive of a 3rd year software engineering course, designed and taught by [Joey Freund](https://github.com/joeyfreund), at the University of Toronto.
 
-The goal of the course is to give university students a glimps into the world of practical software engineering.
+The goal of the course is to give university students a glimpse into the world of practical software engineering.
 In this course, we discussed 4 different topics/issues.
 
 
